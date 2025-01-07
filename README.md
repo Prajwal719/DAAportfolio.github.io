@@ -1,4 +1,4 @@
-# DAAportfolio.github.io
+# WELCOME TO MY PROJECT
 ## Portfolio
 
 ### Hello, I'm [PRAJWAL N DABBANAVAR] 👋
@@ -6,7 +6,7 @@
 I am passionate about technology and problem-solving. Here's a glimpse of my work:
 
 ## 🛠️ Projects
-- **Project 1**:
+- **Project 1**:E-COMMERCE INVENTORY MANAGMENT
 
 
 ## 🚀 Skills
