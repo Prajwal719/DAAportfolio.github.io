@@ -1,4 +1,5 @@
 # WELCOME TO MY PROJECT
+<img src="download.jpg" alt="Description of the image" width="300">
 ## Portfolio
 
 ### Hello, I'm [PRAJWAL N DABBANAVAR] 👋
