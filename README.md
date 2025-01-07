@@ -1,5 +1,5 @@
 # WELCOME TO MY PROJECT
-<img src="E-commerce_web_design_EWM_SA_Digital_Agency_Geneva.jpg" alt="Description of the image" width="300">
+<img src="E-commerce_web_design_EWM_SA_Digital_Agency_Geneva.jpg" alt="Description of the image" width="800">
 ## Portfolio
 
 ### Hello, I'm [PRAJWAL N DABBANAVAR] 👋
